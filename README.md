@@ -4,11 +4,11 @@ Información e investigación relacionada a la astrobiología, fotobiología y a
 
 ## ¡IMPORTANTE!
 
-[Simulando procesos microbiológicos en ambientes acuosos extraterrestres](Marte/Simulating microbial processes in extraterrestrial, aqueous environments.pdf)
+[Simulando procesos microbiológicos en ambientes acuosos extraterrestres](Marte/Simulating-microbial-processes-extraterrestrial-environments.pdf)
 
 + Recordar que el 17 de julio se lanza la próxima misión (Mars 2020) con el Rover nombrado Perseverance, que se espera que aterrice el 18 de febrero de 2021. Claramente más allá de esas fechas arrojará resultados más recientes sobre los GCRs y más info de biosignatures en Marte.
 
-[Posibilidad de vida impulsada por radiólisis inducida por rayos cósmicos en ambientes subsuperficiales](Marte/IMPORTANTEEE On the possibility of galactic cosmic ray-induced radiolysis-powered life in subsurface environments in the Universe.pdf)
+[Posibilidad de vida impulsada por radiólisis inducida por rayos cósmicos en ambientes subsuperficiales](Marte/IMPORTANTEEEPossibilityofGCR-inducedradiolysis-powered-life-in-Universe.pdf)
 
 ## Curiosity Rover (Misión Marte)
 
