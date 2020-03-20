@@ -18,5 +18,9 @@ Información e investigación relacionada a la astrobiología, fotobiología y a
 
 ## Documentos sugeridos recientemente por Luis 
 
+[Tesis daño en el ADN por protones de altas energías](https://github.com/afquinonescamacho/AstrobiologiaUIS/blob/master/Marte/%2BThe%20effect%20of%20high-energy%20proton%20component%20of%20cosmic%20rays%20on%20the%20DNA%20structure.pdf)
+
+[Radiación en misiones espaciales] (https://github.com/afquinonescamacho/AstrobiologiaUIS/blob/master/Marte/%2BRadiation%20and%20space%20flights%20safety%20-%20An%20insight.pdf)
+
 
 
